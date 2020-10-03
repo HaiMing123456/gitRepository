@@ -9,12 +9,14 @@ public class Frist {
         System.out.println("hello project");
         System.out.println("hello project");
         System.out.println("hello project");
+        //test
     }
 
     public void test(){
         int i=1;
         i+=10;
         int a=100;
+        System.out.println("hello");
     }
 
 }
